@@ -36,8 +36,8 @@ src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=
 
 <table>
   <tr>
-    <td>2021 YOUTHFUL ZEST : 젊음의 열정</td>
-    <td>2022 APPS AIRPORT</td>
+    <td width="50%">2021 YOUTHFUL ZEST : 젊음의 열정</td>
+    <td width="50%">2022 APPS AIRPORT</td>
   </tr>
   <tr>
     <td>
