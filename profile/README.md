@@ -24,14 +24,21 @@ src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=
 ## Online Exhibition
 사진을 클릭하면 전시회 페이지로 이동 가능합니다.
 
-### 2021 YOUTHFUL ZEST : 젊음의 열정
-
-<a href="https://sookmyung-apps.github.io/#/">
-<img src = "https://github.com/APPS-sookmyung/.github/blob/main/img/2021.jpg?raw=true" width="85%">
-</a>
-
-### 2022 APPS AIRPORT
-
-<a href="https://apps-exhibition-webpage.vercel.app/">
-<img src = "https://github.com/APPS-sookmyung/.github/blob/main/img/2022.jpg?raw=true" width="85%">
-</a>
+<table>
+  <tr>
+    <td>2021 YOUTHFUL ZEST : 젊음의 열정</td>
+    <td>2022 APPS AIRPORT</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://sookmyung-apps.github.io/#/">
+      <img src = "https://github.com/APPS-sookmyung/.github/blob/main/img/2021.jpg?raw=true">
+      </a>
+    </td>
+    <td>
+      <a href="https://apps-exhibition-webpage.vercel.app/">
+      <img src = "https://github.com/APPS-sookmyung/.github/blob/main/img/2022.jpg?raw=true">
+      </a>
+    </td>
+  </tr>
+</table>
