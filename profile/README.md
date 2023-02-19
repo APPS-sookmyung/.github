@@ -1,6 +1,6 @@
 <div align="center">
 
-# 앱스 APPS
+# Sookmyung APPS
 숙명여자대학교 소프트웨어학부 모바일 컴퓨팅 동아리
 </div>
 
@@ -11,9 +11,13 @@
 다양한 개발 분야의 스터디 참여가 가능합니다.
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="24"> <img 
-src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=apple&logoColor=white" height="24"> <img 
+src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24"> <img 
+src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24"> 
+<img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=apple&logoColor=white" height="24"> <img 
 src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="24"> <img 
-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="24"> <img 
+src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="24"> 
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="24"> <img 
 src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="24"> <img 
 src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" height="24"> <img 
 src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unreal engine&logoColor=white" height="24">
