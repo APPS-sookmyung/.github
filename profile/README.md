@@ -57,7 +57,7 @@ src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=
   </tr>
   <tr>
     <td>
-      <a href="https://dev--fantastic-pithivier-802d8a.netlify.app/">
+      <a href="https://2023-apps-exhibition-webpage.vercel.app/">
         <img src="https://github.com/APPS-sookmyung/.github/blob/main/img/2023.png?raw=true"
       </a>
     </td>
