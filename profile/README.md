@@ -52,4 +52,14 @@ src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=
       </a>
     </td>
   </tr>
+  <tr>
+    <td>2023 APPS Exhibition</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://dev--fantastic-pithivier-802d8a.netlify.app/">
+        <img src="https://github.com/APPS-sookmyung/.github/blob/main/img/2023.png?raw=true"
+      </a>
+    </td>
+  </tr>
 </table>
