@@ -2,13 +2,13 @@
 
 # Sookmyung APPS
 
-숙명여자대학교 소프트웨어학부 모바일 앱 프로그래밍 동아리
+숙명여자대학교 소프트웨어학부 앱/웹 개발 동아리
 
 </div>
 
 ## WHAT IS?
 
-APPS는 ‘모바일 앱 개발’이라는 공통분모를 가진 학생들이 모여 스터디, 프로젝트, 공모전, 전시회 등 다양한 활동을 통해 자신을 성장시키고,
+APPS는 ‘앱/웹 개발’이라는 공통분모를 가진 학생들이 모여 스터디, 프로젝트, 공모전, 전시회 등 다양한 활동을 통해 자신을 성장시키고,
 재밌고 유의미한 앱 및 웹 서비스를 개발하는 소프트웨어학부 소속 학회입니다.
 
 ## Study
@@ -29,7 +29,10 @@ src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=
 
 ## Contact
 
-📫 Gmail [smwu.apps@gmail.com](mailto:smwu.apps@gmail.com)
+📫 Gmail [smwu.apps@gmail.com](mailto:smwu.apps@gmail.com) <br />
+🔎 LinkdIn [https://www.linkedin.com/company/sookmyung-apps/?viewAsMember=true](https://www.linkedin.com/company/sookmyung-apps/?viewAsMember=true) <br />
+💡 Instagram [https://www.instagram.com/sookmyung_apps/](https://www.instagram.com/sookmyung_apps/)
+
 
 ## Online Exhibition
 
@@ -37,28 +40,28 @@ src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=
 
 <table>
   <tr>
-    <td width="50%">2021 YOUTHFUL ZEST : 젊음의 열정</td>
+    <td>2023 APPS Exhibition</td>
     <td width="50%">2022 APPS AIRPORT</td>
   </tr>
   <tr>
     <td>
-      <a href="https://sookmyung-apps.github.io/#/">
-      <img src = "https://github.com/APPS-sookmyung/.github/blob/main/img/2021.png?raw=true">
+      <a href="https://2023-apps-exhibition-webpage.vercel.app/">
+        <img src="https://github.com/APPS-sookmyung/.github/blob/main/img/2023.png?raw=true"
       </a>
     </td>
-    <td>
+        <td>
       <a href="https://apps-exhibition-webpage.vercel.app/">
       <img src = "https://github.com/APPS-sookmyung/.github/blob/main/img/2022.png?raw=true">
       </a>
     </td>
   </tr>
   <tr>
-    <td>2023 APPS Exhibition</td>
+    <td width="50%">2021 YOUTHFUL ZEST : 젊음의 열정</td>
   </tr>
   <tr>
     <td>
-      <a href="https://2023-apps-exhibition-webpage.vercel.app/">
-        <img src="https://github.com/APPS-sookmyung/.github/blob/main/img/2023.png?raw=true"
+      <a href="https://sookmyung-apps.github.io/#/">
+      <img src = "https://github.com/APPS-sookmyung/.github/blob/main/img/2021.png?raw=true">
       </a>
     </td>
   </tr>
