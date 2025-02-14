@@ -28,14 +28,13 @@ src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.j
 src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="24"> <img
 src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" height="24"> <img 
 src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white" height="24"> <img
-src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" height="24"> 
+src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" height="24">
 
 ## Contact
 
 📫 Gmail [smwu.apps@gmail.com](mailto:smwu.apps@gmail.com) <br />
 💡 Instagram [@sookmyung_apps](https://www.instagram.com/sookmyung_apps/) <br />
 🔎 LinkdIn [/in/sookyung-apps](https://www.linkedin.com/company/sookmyung-apps/?viewAsMember=true) <br />
-
 
 ## Online Exhibition
 
@@ -44,25 +43,31 @@ src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&lo
 
 <table>
   <tr>
-    <td>2023 APPS Exhibition</td>
-    <td width="50%">2022 APPS AIRPORT</td>
+    <td>2024 APPS Exhibition</td>
+    <td width="50%">2023 APPS Exhibition</td>
   </tr>
   <tr>
+        <td>
+      <a href="https://2024-apps.netlify.app">
+        <img src="https://github.com/APPS-sookmyung/.github/blob/main/img/2024.png?raw=true"
+      </a>
+    </td>
     <td>
       <a href="https://2023-apps-exhibition-webpage.vercel.app/">
         <img src="https://github.com/APPS-sookmyung/.github/blob/main/img/2023.png?raw=true"
       </a>
     </td>
-        <td>
+  </tr>
+  <tr>
+    <td>2022 APPS AIRPORT</td>
+    <td width="50%">2021 YOUTHFUL ZEST : 젊음의 열정</td>
+  </tr>
+  <tr>
+            <td>
       <a href="https://apps-exhibition-webpage.vercel.app/">
       <img src = "https://github.com/APPS-sookmyung/.github/blob/main/img/2022.png?raw=true">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">2021 YOUTHFUL ZEST : 젊음의 열정</td>
-  </tr>
-  <tr>
     <td>
       <a href="https://sookmyung-apps.github.io/#/">
       <img src = "https://github.com/APPS-sookmyung/.github/blob/main/img/2021.png?raw=true">
