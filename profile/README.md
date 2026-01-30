@@ -43,6 +43,16 @@ src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&lo
 
 <table>
   <tr>
+    <td colspan="2" align="center">2025 APPS Exhibition</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://2025-apps-exhibition-webpage.vercel.app/">
+        <img src="https://github.com/user-attachments/assets/28f61158-46cc-46cf-8150-d2bed8df6760" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td>2024 APPS Exhibition</td>
     <td width="50%">2023 APPS Exhibition</td>
   </tr>
